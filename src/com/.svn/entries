@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="91"
+   name=""
+   committed-date="2013-10-30T03:16:34.931974Z"
+   url="svn://10.45.7.40:30000/swc-common/trunk/src/com"
+   last-author="mikewang"
+   kind="dir"
+   uuid="c18ddf49-f98f-4173-9529-5273d87822aa"
+   repos="svn://10.45.7.40:30000"
+   revision="96"/>
+<entry
+   name="igs"
+   kind="dir"/>
+</wc-entries>
